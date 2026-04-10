@@ -1,89 +1,123 @@
-html{
+html {
     background-color: rgba(119, 255, 255, 0.514);
 }
+
 ul {
     display: flex;
     gap: 20px;
     list-style: none;
 }
 
-.text_content{
+.text_content {
     width: 1000px;
     overflow-x: visible;
 }
-.ao{
+
+.ao {
     color: rgb(55, 55, 255);
     -webkit-text-stroke-width: 0.1px;
     -webkit-text-stroke-color: black;
 }
-.ao_background_color{
+
+.ao_background_color {
     color: #ffffff;
     background-color: rgba(66, 66, 255, 0.863);
     font-size: 20px;
     font-weight: 400;
 }
-.midori{
+
+.midori {
     color: #6dff33;
-     -webkit-text-stroke-width: 0.25px;
+    -webkit-text-stroke-width: 0.25px;
     -webkit-text-stroke-color: black;
 }
-.midori_background_color{
+
+.midori_background_color {
     color: #ffffff;
     background-color: rgba(165, 250, 69, 0.849);
     font-size: 20px;
     font-weight: 400;
 }
 
-.text_content{
+.text_content {
     width: 1021px;
 }
+
 .aka {
     color: rgb(255, 54, 121);
-    
+
 }
-.aka_background_color{
+
+.aka_background_color {
     color: #ffffff;
     background-color: #ff0062;
     font-size: 20px;
     font-weight: 400;
 }
-.orenngi{
+
+.orenngi {
     color: #ff9100;
 }
-.orenngi_background_color{
+
+.orenngi_background_color {
     color: #ffffff;
     background-color: #ff9100;
-     font-size: 20px;
+    font-size: 20px;
     font-weight: 400;
 }
-.ni-go{
+
+.ni-go {
     color: #b150c9;
 }
-.ni-go_kami{
+
+.ni-go_kami {
     color: #ffffff;
     background-color: #b150c9;
     font-size: 20px;
     font-weight: 400;
 }
+
 .leo {
-    
+
     display: block;
-    width: 1000px;
+    width: 1100px;
+    margin: auto;
     margin-bottom: 20px;
-     margin-bottom: 20px;
-    /* margin: 10px; */
 }
+
 .mo {
     background-color: rgb(134, 253, 214);
     width: 1100px;
     margin: 0 auto;
 }
+
 .li {
     background-color: #ffcc23;
     width: 1100px;
-    margin: 0 auto; 
+    margin: 0 auto;
+}
+.ina {
+     background-color: #e945ff;
+    width: 1100px;
+    margin: 0 auto;
+}
+.su {
+     background-color: #32fa00;
+    width: 1100px;
+    margin: 0 auto;
+}
+.hu {
+     background-color: #0084ff;
+    width: 1100px;
+    margin: 0 auto;
 }
 table {
     background-color: #f3f3f3bd;
 }
-
+.button {
+    display: block;
+     width: 250px;
+     height: 250px;
+      margin: auto;
+      font-size: 50px;
+}
